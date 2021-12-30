@@ -56,7 +56,11 @@ We have a total of 19 pages.
 <!--Steps for running the program-->
 #### How to view the website
 * Look for Xampp Control Panel in your search bar
+
+![1](https://user-images.githubusercontent.com/91727165/147794092-3998f103-99bd-4560-835b-bfe9f7154c9c.png)
+
 * Start Apache and MySQL
+
 * Search in your browser for:
 ```
 localhost/index.php 
@@ -71,7 +75,18 @@ localhost/dashboard/
 
 * Then search for phpMyAdmin
 
+![3](https://user-images.githubusercontent.com/91727165/147794096-fd8bc2ed-3721-4794-abfc-d10dfbce0831.png)
+
 * To check the database create a new database in phpmyadmin named bookckub then upload the given sql to the newly created database, by clicjing on import and import the provided bookclub sql.
+
+
+![7](https://user-images.githubusercontent.com/91727165/147794091-56156a25-6edb-4ac6-a7af-7deeb11d7d50.png)
+
+![6](https://user-images.githubusercontent.com/91727165/147794090-8681a72f-3058-4903-9090-1cd248538fb3.png)
+
+![5](https://user-images.githubusercontent.com/91727165/147794089-0afc66d5-b13d-49d6-84bd-853f4bbe08f6.png)
+
+![4](https://user-images.githubusercontent.com/91727165/147794088-72eb10ec-1dcf-4419-8c98-e1243be89924.png)
 
 
 ### Help
