@@ -10,14 +10,32 @@ This poject is a website dedicated for Effat University book Club (leader and me
 <!--Header 2 description of the project-->
 ## Description
 
-<p style="text-align: justify;"> This project will create a database for the club where the name, email and id of the members will be stored, it will also store a list of all the books they read and the events they organized. The website will display this information for all users, but it will also include a join us option for any new student who would like to be part of the club. After registering a student will log in and a profile will be created for her. The profile can be edited or deleted by the student. She will also be able to fill a form to discuss the book she read; she can later edit it the form. All users can register to attend the events organized by the club. Finally, the admin which is the club leader can add new event or edit existing ones and can delete books from the database.</p>
+<p style="text-align: justify;"> This project will create a database for the club where the name, email and id of the members will be stored, it will also store a list of all the books they read and the events they organized. The website will display this information for all users, but it will also include a join us option for any new student who would like to be part of the club. After registering a student will log in and a profile will be created for her. The profile can be edited or deleted by the student. She will also be able to fill a form to discuss the book she read; she can later edit it the form. All users can register to attend the events organized by the club. Finally, the admin which is the club leader can add new event or edit existing ones and can delete books from the database.A contact option is also provided any user can leave a message to the club.</p>
 
 <!--Header 3 front end-->
 ## FRONT-END
 We have a total of 19 pages.
 
-## Files
-### CSS
+## Website Layout
+
+### Home
+* Main activities that the club provide. 
+* Joining or logging in.
+* Contact the club. 
+
+### Join Us 
+* Clicking on the join us button will lead the user to a form where she will fill her personal information including her name, id, email password...
+
+### Log In
+* Clicking on the log in button will lead the user to a form where she will fill her id and password and the website will check if it matches tha data in the databse then it will welcome the user.
+
+### About Us 
+### Event
+* View and register to attend an events.
+* Manage event button for the admin.
+this will take him to a page where she can add or edit or delete event. The add and edit event will take her to a form page to fill the required information. 
+### Files
+#### CSS
 
 * Ourstyle.css
 * booklist.css
@@ -25,7 +43,7 @@ We have a total of 19 pages.
 * styles.css
 
 
-### Javascript
+#### Javascript
 
 * Bookread.js
 * Deletebook.js
