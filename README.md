@@ -10,7 +10,7 @@ This poject is a website dedicated for Effat University book Club (leader and me
 <!--Header 2 description of the project-->
 ## Description
 
-This project will create a database for the club where the name, email and id of the members will be stored, it will also store a list of all the books they read and the events they organized. The website will display this information for all users, but it will also include a join us option for any new student who would like to be part of the club. After registering a student will log in and a profile will be created for her. The profile can be edited or deleted by the student. She will also be able to fill a form to discuss the book she read; she can later edit it the form. All users can register to attend the events organized by the club. Finally, the admin which is the club leader can add new event or edit existing ones and can delete books from the database.
+<p style="text-align: justify;"> This project will create a database for the club where the name, email and id of the members will be stored, it will also store a list of all the books they read and the events they organized. The website will display this information for all users, but it will also include a join us option for any new student who would like to be part of the club. After registering a student will log in and a profile will be created for her. The profile can be edited or deleted by the student. She will also be able to fill a form to discuss the book she read; she can later edit it the form. All users can register to attend the events organized by the club. Finally, the admin which is the club leader can add new event or edit existing ones and can delete books from the database.</p>
 
 <!--Header 3 front end-->
 ## FRONT-END
@@ -66,9 +66,12 @@ and then start browsing the website
 #### How to view the database
 * Search for:
 ```
-localhost/dashboard/phpmyadmin 
+localhost/dashboard/
 ``` 
-* To check the database create a new database in phpmyadmin named bookckub then upload the given sql to the newly created database.
+
+* Then search for phpMyAdmin
+
+* To check the database create a new database in phpmyadmin named bookckub then upload the given sql to the newly created database, by clicjing on import and import the provided bookClub sql.
 
 * Open it and use the:
 <!--commands to run the program "cd" change directory to where your files are-->
