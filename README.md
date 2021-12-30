@@ -71,34 +71,11 @@ localhost/dashboard/
 
 * Then search for phpMyAdmin
 
-* To check the database create a new database in phpmyadmin named bookckub then upload the given sql to the newly created database, by clicjing on import and import the provided bookClub sql.
+* To check the database create a new database in phpmyadmin named bookckub then upload the given sql to the newly created database, by clicjing on import and import the provided bookclub sql.
 
-* Open it and use the:
-<!--commands to run the program "cd" change directory to where your files are-->
-```
-cd 
-```
-command to go to the specified directory.
-* Use
-<!--commands to run the program "make project" compile the program--> 
-```
-make project 
-```
-to compile the all the project files.
-* Than type 
-<!--commands to run the program "project" run and executes program-->
-```
-project 
-```
-to execute and run the program.
 
 ### Help
-If the code does not compile use 
-<!--commands to remove object and excevutable files "project"-->
-```
-make clean
-```
-to remove object and excevutable files.
+If the changes in the website does not appear try using another browser or click on Fn + F5
 
 ## Authors
 <!-- The contributors to the project-->
