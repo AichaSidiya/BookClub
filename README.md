@@ -61,6 +61,8 @@ We have a total of 19 pages.
 
 * Start Apache and MySQL
 
+<img width="500" alt="2" src="https://user-images.githubusercontent.com/91727165/147794319-03138add-f182-4889-8fde-ab9adc36610a.PNG">
+
 * Search in your browser for:
 ```
 localhost/index.php 
