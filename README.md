@@ -87,9 +87,11 @@ If the changes in the website does not appear try using another browser or click
 
 ## Acknowledgments
 <!-- Insparation files, codes, and general refrences used in writing the code of the project-->
-* Book - C++ Programming. Program Design including Data Structures by D.S. Malik
-* StatArray.h
-* [Dynamic Array](https://www2.cs.sfu.ca/CourseCentral/225/johnwill/lab_arrays_intro.html)
-* [C++ Pre-processor](https://doc.bccnsoft.com/docs/cppreference_en/preprocessor/all.html)
-* [C++ documentation](https://www.cplusplus.com/doc/)
+* [BootStrap used](https://startbootstrap.com/previews/agency)
+* [JavaScript guide](https://www.w3schools.com/js/default.asp)
+* [JavaScript form Validation](https://www.javatpoint.com/confirm-password-validation-in-javascript)
+* [JavaScript password Validation](https://www.javatpoint.com/javascript-form-validation)
+* [JavaScript form Validation2](https://www.geeksforgeeks.org/form-validation-using-html-javascript/)
+* [CSS grid style](https://stackoverflow.com/questions/47587892/how-does-css-grid-layout-works)
 * [Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+* [Readme Content Table](https://ecotrust-canada.github.io/markdown-toc/)
