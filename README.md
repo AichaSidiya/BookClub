@@ -45,15 +45,31 @@ We have a total of 19 pages.
 * View and register to attend an events.
 * Manage event button for the admin.
 
+#### Manage Event
+* Clicking on the mange event button will take the admin to a page were she can add or edit or delete event. 
+* The add and edit event will take her to a form page to fill the required information.
+
 ### Club Members
 * In the upper menu a user that is not a member can browse to the club members page that lists all the club members, and provides genral info about them such as the genre they like and a small welcome message. It also indicates the leader of the club. A menu is provided to be able to go read about a particular member.
 
 ### Book List
 * In the upper menu a user that is not a member can browse to the book list page that lists all the books that the club read till now, and provides genral info about it such as the title, author and genre of the book in addition to a small summary.
+* Edit Book button for members and admin.
+* Delete button for the admin.
+
+#### Edit Book
+* Clicking on the edit book button will take the member to a page were she can edit the chosen book. 
+* The member has to fill the required information of the book.
+
+#### Delete Book
+* Clicking on the delete book button will take the member to a page were she can delete the chosen book. 
  
-this will take him to a page where she can add or edit or delete event. The add and edit event will take her to a form page to fill the required information. 
-### Files
-#### CSS
+
+## FRONT-END
+
+
+## Files
+### CSS
 
 * Ourstyle.css
 * booklist.css
@@ -61,7 +77,7 @@ this will take him to a page where she can add or edit or delete event. The add 
 * styles.css
 
 
-#### Javascript
+### Javascript
 
 * Bookread.js
 * Deletebook.js
