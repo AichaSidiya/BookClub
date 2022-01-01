@@ -16,56 +16,69 @@ This poject is a website dedicated for Effat University book Club (leader and me
 ## FRONT-END
 We have a total of 19 pages.
 
-## Website Layout
+### Website Layout
 
-### Home
+#### Home
 * Main activities that the club provide. 
 * Joining or logging in.
 * Contact the club. 
 
-#### Join Us 
+##### Join Us 
 * Clicking on the join us button will lead the user to a form where she will fill her personal information including her name, id, email password...
 
-#### Log In
+##### Log In
 * Clicking on the log in button will lead the user to a form where she will fill her id and password and the website will check if it matches tha data in the databse then it will welcome the user.
 
-##### Profile
+###### Profile
 * Upon logging in the log in and join us buttoon will disapear, a logout option will appear on the menu and a profile page will be created with a edit and delete option.
 * The edit option will display a form of the user info.
 * Note that the admin can't delete her account she can only update the name and id and pass.
 
-##### Book Read
+###### Book Read
 * Club Members also have the option to add books by filing the form in the book read page that will appear in the menu upon logging in.
 
-### About Us
+#### About Us
 * In the upper menu a user that is not a member can browse to the about us page where a "Be Part of Our Family" will take her to the join us form. 
 
-### Event
+#### Event
 * In the upper menu a user that is not a member can browse to the event page 
 * View and register to attend an events.
 * Manage event button for the admin.
 
-#### Manage Event
+##### Manage Event
 * Clicking on the mange event button will take the admin to a page were she can add or edit or delete event. 
 * The add and edit event will take her to a form page to fill the required information.
 
-### Club Members
+#### Club Members
 * In the upper menu a user that is not a member can browse to the club members page that lists all the club members, and provides genral info about them such as the genre they like and a small welcome message. It also indicates the leader of the club. A menu is provided to be able to go read about a particular member.
 
-### Book List
+#### Book List
 * In the upper menu a user that is not a member can browse to the book list page that lists all the books that the club read till now, and provides genral info about it such as the title, author and genre of the book in addition to a small summary.
 * Edit Book button for members and admin.
 * Delete button for the admin.
 
-#### Edit Book
+##### Edit Book
 * Clicking on the edit book button will take the member to a page were she can edit the chosen book. 
 * The member has to fill the required information of the book.
 
-#### Delete Book
+##### Delete Book
 * Clicking on the delete book button will take the member to a page were she can delete the chosen book. 
  
 
-## FRONT-END
+## Back-END
+
+We have 5 tables in our database
+
+### Members
+* Includes all the member information extracted from the join us form.
+### Books
+* Includes all the book information exctracted from the book read form.
+### Events
+* Includes all the event information exctracted from the add event form.
+### Event Attendance
+* Includes all the student and event id.
+### Messages
+* Includes the message and the the contact information of the user who left the message.
 
 
 ## Files
