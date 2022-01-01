@@ -2,6 +2,45 @@
 # Effat University Book Club
 <!--Content Table-->
 
+## Content 
+
+- [Effat University Book Club](#effat-university-book-club)
+  * [Purpose](#purpose)
+  * [Description](#description)
+  * [FRONT-END](#front-end)
+    + [Website Layout](#website-layout)
+      - [Home](#home)
+        * [Join Us](#join-us)
+        * [Log In](#log-in)
+          + [Profile](#profile)
+          + [Book Read](#book-read)
+      - [About Us](#about-us)
+      - [Event](#event)
+        * [Manage Event](#manage-event)
+      - [Club Members](#club-members)
+      - [Book List](#book-list)
+        * [Edit Book](#edit-book)
+        * [Delete Book](#delete-book)
+  * [Back-END](#back-end)
+    + [Members](#members)
+    + [Books](#books)
+    + [Events](#events)
+    + [Event Attendance](#event-attendance)
+    + [Messages](#messages)
+  * [Files](#files)
+    + [CSS](#css)
+    + [Javascript](#javascript)
+  * [Enhancement](#enhancement)
+  * [Getting Started](#getting-started)
+    + [Dependencies](#dependencies)
+    + [Installing](#installing)
+    + [Viewing the Website](#viewing-the-website)
+      - [How to view the website](#how-to-view-the-website)
+      - [How to view the database](#how-to-view-the-database)
+    + [Help](#help)
+  * [Authors](#authors)
+  * [Acknowledgments](#acknowledgments)
+
 
 ## Purpose
 <!--Purpose of the project-->
