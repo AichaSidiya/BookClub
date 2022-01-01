@@ -102,6 +102,15 @@ We have 5 tables in our database
 * newevent.js
 * scripts.js
 
+## Enhancement
+* Send the contact us message to the vlub email.
+* Make non members caable of registering to attend the club event by changing the format of the register now form.
+* Add a back up button to the club members and book list pages
+* Add a menu and a back up buttoon to the event page for the each event
+* Add a more button to the each book in the book list and hide some the summary
+* Create an discssion board for each book and each event were more information is displayed and a discussion is provided via comments, in addition to a rating option.
+* Show the ration of the event and the book in the event and booklist page.
+
 
 <!--Header 3 installation and launching the project-->
 ## Getting Started
