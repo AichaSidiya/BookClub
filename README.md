@@ -210,9 +210,9 @@ If the changes in the website does not appear try using another browser or click
 ## Authors
 <!-- The contributors to the project-->
 * [Aicha Sidiya](https://github.com/AichaSidiya)
-* Hanin AlZaher
+* [Hanin AlZaher](https://github.com/hanin-az)
 * Razan AlMahdi
-* Reem AlSharabi
+* [Reem AlSharabi](https://github.com/ReemAlsharabi)
 
 
 ## Acknowledgments
