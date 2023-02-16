@@ -46,6 +46,8 @@
 <!--Purpose of the project-->
 This poject is a website dedicated for Effat University book Club (leader and members). 
 
+<img src=""/>
+
 <!--Header 2 description of the project-->
 ## Description
 
