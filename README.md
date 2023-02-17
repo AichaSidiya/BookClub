@@ -106,7 +106,7 @@ git clone https://github.com/AichaSidiya/BookClub.git
 ``` 
 * Install [xampp](https://www.apachefriends.org/download.html)
 * Import the bookclub.sql file to [phpmyadmin](localhost/phpmyadmin/)
-* Update the database connection to match your database crendentials.
+* Update the **databaseConnection.php** to match your database crendentials.
 * Host the files on a web server and access the website using your preferred browser.
 
 ## Authors
