@@ -11,9 +11,17 @@ This poject is a website dedicated for Effat University book Club (leader and me
 ## Description
 
 This project will create a database for the club which stores members data, data about the books they read and event they hosted. 
+
+## Enhancement
+* Send the contact us message to the club email.
+* Add a back up button to the club members and book list pages
+* Add a menu and a back up buttoon to the event page for the each event
+* Add a more button to the each book in the book list and hide some the summary
+* Create an discssion board for each book and a rating option.
+
+
 <!--Header 3 front end-->
 ## FRONT-END
-We have a total of 19 pages.
 
 ### Website Layout
 
@@ -89,14 +97,6 @@ We have 5 tables in our database
 * myScript.js
 * newevent.js
 * scripts.js
-
-## Enhancement
-* Send the contact us message to the club email.
-* Add a back up button to the club members and book list pages
-* Add a menu and a back up buttoon to the event page for the each event
-* Add a more button to the each book in the book list and hide some the summary
-* Create an discssion board for each book and a rating option.
-
 
 <!--Header 3 installation and launching the project-->
 ## Installation
