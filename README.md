@@ -10,7 +10,7 @@ This poject is a website dedicated for Effat University book Club (leader and me
 <!--Header 2 description of the project-->
 ## Description
 
-<p style="text-align: justify;"> This project will create a database for the club which stores members data, data about the books they read and event they hosted. </p>
+This project will create a database for the club which stores members data, data about the books they read and event they hosted. 
 <!--Header 3 front end-->
 ## FRONT-END
 We have a total of 19 pages.
